@@ -1,7 +1,0 @@
-setup.py
-DamondPricePrediction.egg-info/PKG-INFO
-DamondPricePrediction.egg-info/SOURCES.txt
-DamondPricePrediction.egg-info/dependency_links.txt
-DamondPricePrediction.egg-info/requires.txt
-DamondPricePrediction.egg-info/top_level.txt
-src/__init__.py
